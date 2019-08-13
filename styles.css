@@ -798,22 +798,22 @@ position: absolute;
 */
 @-webkit-keyframes typing {
   from { width: 0 }
-  to { width: 100%}
+  to { width: 91vw}
 }
 
 @-moz-keyframes typing {
   from { width: 0 }
-  to { width: 100%}
+  to { width: 91vw}
 }
 
 @-ms-keyframes typing {
   from { width: 0 }
-  to { width: 100% }
+  to { width: 91vw }
 }
 
 @-o-keyframes typing {
   from { width: 0 }
-  to { width: 100% }
+  to { width: 91vw }
 }
 
 
